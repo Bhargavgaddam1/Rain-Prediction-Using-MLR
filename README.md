@@ -3,7 +3,7 @@
 The project aims is to develop a reliable rain-detecting weather prediction model using the Multiple Linear Regression (MLR) Algorithm. It was evaluated
 using various metrics such as Root Mean Square Error (RMSE) and Mean Absolute Error (MAE). The study also highlighted the potential applications of the MLR
 algorithm in various fields, including transportation, agriculture, and disaster management, where reliable weather predictions are crucial. The study contributes to the
-ongoing research on machine learning algorithms for weather prediction and provides insights into the use of MLR for rain detection. The limitations of the study
+ongoing research on machine learning algorithms for weather prediction and provides insights into the use of MLR for rain detection. The limitations of the study
 included the availability and quality of historical weather and rainfall data and the assumptions made in the MLR model. This project result can be used by policymakers, farmers, transportation operators, and disaster management organizations to make decisions based on accurate weather predictions.
 
 ## MLR
